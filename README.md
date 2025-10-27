@@ -452,15 +452,7 @@ onClick={() => handleDelete(task.id)}
 ## Submission Requirements
 
 ### What to Submit
-1. **Source Code**: Complete React project folder (zip file)
-2. **Live Demo**: Deploy to GitHub Pages, Netlify, or Vercel
-3. **README**: Include setup instructions and feature list
-4. **Reflection**: 1-2 paragraph reflection on React vs vanilla JavaScript
-
-### Submission Format
-- Submit via course website
-- Include live demo URL in submission comments
-- Ensure all code is properly commented
+1. **Github URL** Submit github URL in bcourses
 
 ---
 
